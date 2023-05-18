@@ -1,0 +1,880 @@
+﻿#,Name,Address,Atoll,Island,District,Rooms,Beds
+1,11One Ocean,"Soft Coral, Kurikeela Magu",Vaavu,Fulidhoo,,4,8
+2,2020 Sandhaa,"Sandha, Dhunburi Magu",Shaviyani,Milandhoo,,3,6
+3,Aagali Beach,Vaagali  Soasun Magu,Vaavu,Fulidhoo,,4,8
+4,Aariyaa View,Dhoodigan. Aariyaa,Gnaviyani,Fuvahmulah,,4,8
+5,Aasna Inn,Eureka,Kaafu,Thulusdhoo,,12,24
+6,Abuharee Grand,Afroaz,Seenu,Hithadhoo,,15,30
+7,Acacia Beach,"Hulhumale' Lot No.10402, Maziya",Kaafu,Male',Hulhumale',24,48
+8,Acqua Blu Rasdhoo,Seagul,Alifu Alifu,Rasdhoo,,8,16
+9,Adroit Beach Inn,White House,Kaafu,Guraidhoo,,3,6
+10,Ahiva Village,"Ocean Villa, Ghazee Hingun",Baa,Fulhadhoo,,12,24
+11,Akiri Grand,Manzil,Vaavu,Thinadhoo,,4,8
+12,Akiri Surf Retreat,Fias,Kaafu,Thulusdhoo,,3,6
+13,Al-Hub,"Asaa, Abadhah Hiyaa Magu",Alifu Alifu,Feridhoo,,7,14
+14,Ala Fehi Retreat,"Maadhadu, Maadhadige",Gnaviyani,Fuvahmulah,,3,6
+15,Alaika Maafushi,"Falaku, Noonu",Kaafu,Maafushi,,11,22
+16,Ale Sara Guest (Baa),Randheli,Baa,Eydhafushi,Eydhafushi,4,8
+17,Ale Sara Guest Maldive Thoddu,"Tube Rose, Shaheedh Ali Hingun",Alifu Alifu,Thoddoo,,4,8
+18,Alimas Holiday Retreat,Alimasge,Vaavu,Felidhoo,,15,30
+19,Alkina Lodge,Thousand Flower,Vaavu,Fulidhoo,,4,8
+20,Aloha Beach Inn,"Reesha Vaadee, Violet Magu",Kaafu,Himmafushi,,5,10
+21,Amazing View,View,Alifu Alifu,Thoddoo,,11,22
+22,Amber Beach,Hulhumale' Lot. No. 10997,Kaafu,Male',Hulhumale',20,40
+23,Ameera Guest House,"Happy Land, Arutha",Kaafu,Dhiffushi,,10,20
+24,Amina Residency,H. Feyrugasdhoshuge,Kaafu,Male',Henveiru,4,8
+25,Anfradora Lodge at V. Keyodhoo,"Hudhu Asurumaage, Bandahajehi Magu",Vaavu,Keyodhoo,,10,20
+26,Antares Dhangethi,"Aakaash, Beach Road",Alifu Dhaalu,Dhangethi,,13,26
+27,Aqua Blu Thoddoo,Nanreethige,Alifu Alifu,Thoddoo,,5,10
+28,Aqua Inn,"Thiari, Marine Drive",Lhaviyani,Naifaru,,4,8
+29,Aqua Sunset,"Neel Villa, Gul'alaa Magu",Kaafu,Gulhi,,6,12
+30,Aquavilla by Aquaholic,"1. Vega, 2. Kuredhimaage, Fenboa Magu",Haa Alifu,Vashafaru,,3,6
+31,Aquzz Inn,"Marvel, Haveeree Hingun",Kaafu,Maafushi,,20,40
+32,Araam View,Hulhumale' Lot. No. 10788,Kaafu,Male',Hulhumale',14,28
+33,Araamu Holidays and Spa,1. Sanoara & 2. Aseynaa,Kaafu,Dhiffushi,,32,64
+34,Arena Beach,Janavaree Villa,Kaafu,Maafushi,,16,32
+35,Arena Fushi Seaview,Mugulas,Kaafu,Maafushi,,49,98
+36,Arena Grand Beach,"1. Shine Villa  2. Shine Beach, Hiyfaseyha Magu",Kaafu,Maafushi,,28,56
+37,Arena Veli Seaview,"Dhonveli, Hiyyfaseyha Magu",Kaafu,Maafushi,,49,98
+38,Ari Grand,"Roma, Ujaalaa Magu",Alifu Dhaalu,Dhangethi,,14,28
+39,Ari Villa Seaview,"Fiya,Hudhaa Hingun",Alifu Alifu,Mathiveri,,4,8
+40,Arianna Dhangethi,Palace,Alifu Dhaalu,Dhangethi,,10,20
+41,Arora Inn,Heaven,Kaafu,Maafushi,,6,12
+42,Arowana Surfs,Silver Sight,Kaafu,Huraa,,3,6
+43,Asia Inn,"Asia, Sosun Magu",Alifu Dhaalu,Hangnaameedhoo,,7,14
+44,Asseyri Guest House,"Asseyri, Waseemee Hingun",Seenu,Maradhoo Feydhoo,,11,22
+45,Ataraxis Grand and Spa,Jeem,Gnaviyani,Fuvahmulah,,15,30
+46,Athens View,Alivaage,Kaafu,Guraidhoo,,15,30
+47,Athiri Inn Kelaa,Athireege,Haa Alifu,Kelaa,,4,8
+48,Athiri Veli,Kuri,Alifu Alifu,Thoddoo,,7,14
+49,Atholhu Residence,"Maahal, Usmaanee Hingun",Baa,Fehendhoo,,6,12
+50,Atoll Residence Dhangethi,"Jazeera, Beach Road",Alifu Dhaalu,Dhangethi,,16,32
+51,Atollkey Beachvilla,Sweet Rose,Alifu Dhaalu,Dhigurah,,6,12
+52,Avanti Vaadhoo,Keneree Lodge,Gaafu Dhaalu,Vaadhoo,,5,10
+53,Aveyla Manta Village,Beach Villa,Baa,Dharavandhoo,,16,32
+54,Avoca Inn,"Avoca, Hulhumale' Lot No. 11058, Nirolhu Magu 19",Kaafu,Male',Hulhumale’,25,50
+55,Ayala Ocean View,Sun Flower & White Snow,Kaafu,Gulhi,,20,40
+56,Ayira Maldives,Fundhuni,Alifu Alifu,Feridhoo,,5,10
+57,Azoush Tourist Guesthouse,White Home & Diamond Villa,Baa,Fulhadhoo,,10,20
+58,Babushkha Hospitality,"Green Wheel, Janavaree Magu",Alifu Alifu,Thoddoo,,10,20
+59,Bahaari Lodge,"Aabahaaruge, Fithuroanu Magu",Kaafu,Kaashidhoo,,3,6
+60,Bahaaru Villa,"Bahaaru, Janavaree Magu",Kaafu,Himmafushi,,4,8
+61,Baivaru Guesthouse Services,Sosun Villa,Gaafu Alifu,Dhaandhoo,,3,6
+62,Bambukeyo Villa,Husnuheena,Thaa,Gaadhiffushi,,6,12
+63,Banyan Villa,"Beach Villa, Manzaru Hingun",Alifu Dhaalu,Dhangethi,,5,10
+64,Batuta Maldives Surf View,Sun Rise,Kaafu,Thulusdhoo,,7,14
+65,BB Island House,Hudhufas,Alifu Dhaalu,Dhigurah,,3,6
+66,Beach Albatross,"Hulhumale', Tho Residence 10053, Dhiggaa Magu",Kaafu,Male',Hulhumale’,15,30
+67,Beach Breeze and Spa,Hulhumale' Lot. no. 10104,Kaafu,Male',Hulhumale,8,16
+68,Beach Grand and Spa Premium,Hulhumale' Lot No. 10076,Kaafu,Male',Hulhumale',10,20
+69,Beach Home Kelaa,"Dhuvaaru, Kalhu Hassan Magu",Haa Alifu,Kelaa,,7,14
+70,Beach Home Vashafaru,"Vaadhee, Ameenee Magu",Haa Alifu,Vashafaru,,4,8
+71,Beach House,"Beach House, Nikagas Magu",Alifu Dhaalu,Hangnaameedhoo,,3,6
+72,Beach House Dhiffushi,Kothari Villa,Kaafu,Dhiffushi,,6,12
+73,Beach Palace,Hulhunale' Lot. No. 10824,Kaafu,Male',Hulhumale',13,26
+74,Beach Star Maldives,"Naares, Sosun Magu",Alifu Dhaalu,Hangnaameedhoo,,4,8
+75,Beach Stone,"Moon Fish, Dheyliyaa Magu",Kaafu,Gulhi,,8,16
+76,Beach Sunrise Inn,"Orchid Hiya,  Hulhumale' Lot No. 10718",Kaafu,Male',Hulhumale',12,24
+77,Beach Veli,"Silver Beach, Jumhooree Magu",Alifu Alifu,Ukulhas,,6,12
+78,Beach Vita Maldives,"Thousand Flower, Javaahiru Magu",Alifu Dhaalu,Hangnaameedhoo,,4,8
+79,Beach Walk Villa,"Kandholhu, Lhosgas Magu",Kaafu,Gulhi,,8,16
+80,Beachwalk Kanditheemu,River,Shaviyani,Kanditheemu,,3,6
+81,Beehive Central,M. Novina,Kaafu,Male',Maafannu,34,68
+82,Beehive Premier,"H. Zesna, Raiyvilla Hingun",Kaafu,Male',Henveiru,23,46
+83,Belvedere Thoddoo,"1. Deyzee 2. Ehiya, Ruhdhandu Magu",Alifu Alifu,Thoddoo,,10,20
+84,Bibee Maldives,Nooran & Shuhaa Palace,Kaafu,Dhiffushi,,9,18
+85,Biosphere Inn,Raastha,Baa,Dharavandhoo,,7,14
+86,Bito's G.H,Roashanee Aage,Kaafu,Himmafushi,,6,12
+87,Black Pearl Himandhoo,"Black Pearl, Nooraanee Magu",Alifu Alifu,Himandhoo,,3,6
+88,Blu Dhiffushi,"1. Hiyaavahi  2. Vaaveri 3. Unicorn , Mirihi Magu",Kaafu,Dhiffushi,,20,40
+89,Blue Coral Vashafaru Maldives,Zamaan,Haa Alifu,Vashafaru,,6,12
+90,Blue Lagoon Maldives,Blue Heaven,Raa,Rasgetheemu,,6,12
+91,Blue Water Thoddoo Inn,Noohiri,Alifu Alifu,Thoddoo,,3,6
+92,Blue Wave Guest House,Violetge,Dhaalu,Kudahuvadhoo,,18,36
+93,Blue World Dharavandhoo,Keema & Manaazir,Baa,Dharavandhoo,,4,8
+94,Boaveli Maldives Guest House,Haali,Vaavu,Keyodhoo,,4,8
+95,Boegas View,Aizan,Haa Dhaalu,Vaikaradhoo,,3,6
+96,Bougain Villa Guest House,"Dhammaru, Haveeree Hingun",Gaafu Alifu,Gemanafushi,,4,8
+97,Bougainvillea Inn,"Fresh Heart, Kurikeela Magu",Vaavu,Fulidhoo,,3,6
+98,Boutique Beach Guest House,Fehivina,Alifu Dhaalu,Dhigurah,,6,12
+99,Brick Wood,Bashima Villa,Alifu Alifu,Rasdhoo,,6,12
+100,Brickwood Ganduvaru,Sunshine,Alifu Alifu,Rasdhoo,,5,10
+101,Brize Inn,Hulhumale lot no. 10809,Kaafu,Male',Hulhumale',12,24
+102,Burooj Inn,"Alight Hingun,  Dhekunu Avah",Haa Dhaalu,Makunudhoo,,3,6
+103,By The Shade,Medhufaru,Alifu Dhaalu,Hangnaameedhoo,,4,8
+104,Calm Inn,M. Maafusheege,Kaafu,Male',Maafannu,16,32
+105,Calyx Grand,Calyx,Gnaviyani,Fuvahmulah,,5,10
+106,Canopus Retreat Thulusdhoo,Luxter & Amaaz,Kaafu,Thulusdhoo,,12,24
+107,Captains Inn and Spa,"Chandhanee Moon,  Hulhumale' Lot No. 10416,  Ahigas Magu",Kaafu,Male',Hulhumale',4,8
+108,Carnival Guest House,Freesia,Haa Dhaalu,Kulhudhuffushi,,3,6
+109,Casa Baraabaru Maldives,Baraabaru,Vaavu,Thinadhoo,,3,6
+110,Casa Mia Inn Vashafaru,Malas,Haa Alifu,Vashafaru,,4,8
+111,Casa Paradiso,"Hudhuveli, Vashaa Magu",Alifu Alifu,Ukulhas,,13,26
+112,Casa Retreat,Hulhumale' Lot. No. 10139,Kaafu,Male',Hulhumale',5,10
+113,Cerulean View Residence,"1. Sea Lily 2. Hanz Palace, Uthuru Avah, Nikagas Magu",Haa Dhaalu,Hanimaadhoo,,11,22
+114,Chambao Maldives,"Vadige, Nooma Magu",Kaafu,Guraidhoo,,3,6
+115,Champa Moon Guesthouse,G. Champa Moon,Kaafu,Male',Galolhu,13,21
+116,Chao Guest House,Chao,Kaafu,Maafushi,,3,6
+117,Charming Holiday Lodge,Elhege,Seenu,Meedhoo,Addu City,4,8
+118,Chen Beach Inn,"Hulhumale' Lot No. 11078, Kaani Magu,",Kaafu,Male',Hulhumale’,22,44
+119,Chillax Thoddoo,"White Rose, Moonlight Goalhi",Alifu Alifu,Thoddoo,,8,16
+120,Cinque Retreat and Spa,Hulhumale' Lot. No. 10515,Kaafu,Male',Hulhumale',9,18
+121,Ciritono View,Aafiya Mazil,Kaafu,Maafushi,,9,18
+122,Ciritorno View,Aafiyaa Manzil,Kaafu,Maafushi,,9,18
+123,Clarks Exotica Kamadhoo Maldives,The Hawks Pvt Ltd - Harbour Area Land,Baa,Kamadhoo,,19,38
+124,Cliff Retreat,Cliff,Shaviyani,Komandoo,,4,8
+125,Clouds Beach Retreat Laamu,"1. Nesvil 2. Nexpiz,  Mukurimagu",Laamu,Gan,Mukurimagu,8,16
+126,Clove Beach,Bluemee,Seenu,Hithadhoo,,3,6
+127,Club Blu,Hulhumale' Lot. No. 11047,Kaafu,Male',Hulhumale',10,20
+128,Club Gabbiano,"Alamaa,  Fenboavalhu Magu",Alifu Alifu,Rasdhoo,,16,32
+129,Club Kaafu,Beach Rest & Beach View,Kaafu,Dhiffushi,,5,10
+130,Coastline Residences,Luxury Villa Land,Baa,Finolhas,B. Finolhas,38,76
+131,Coco Cottage Local Style,"Starlin Roashanee Magu Guraidhoo, Kaafu Atoll Republic of Maldives",Kaafu,Guraidhoo,,5,10
+132,Coco Villa,"Dhoadhi, Shaheedh Ali Hingun",Alifu Alifu,Thoddoo,,6,12
+133,Coconut Palm Dhidhoo,Handhaan,Alifu Dhaalu,Dhidhdhoo,,3,6
+134,Cocos Beach House,"Green Villa, Hudhuvilaa Magu",Alifu Alifu,Bodufolhudhoo,,5,10
+135,Cocotier Inn,"H. Raalhu Fonu, Filigas Hingun",Kaafu,Male',,16,32
+136,Contento Retreat,Hulhumale' Lot no. 10826,Kaafu,Male',Hulhumale',14,28
+137,Coral Beach Maldives,Nalahiyaa,Alifu Dhaalu,Hangnaameedhoo,,6,12
+138,Coral Castle,Fehivilaage,Baa,Goidhoo,,6,12
+139,Coral Cove Tourist Guest House,Enam,Baa,Dharavandhoo,,5,10
+140,Coral Grand,M. Dhonbulhaage,Kaafu,Male',Maafannu,28,56
+141,Coral Grand Beach & Spa,Hulhumale' Lot. No. 10970,Kaafu,Male',Hulhumale',20,40
+142,Coral Heavens Sunset View & Spa,Jewel,Kaafu,Guraidhoo,,7,14
+143,Coral Inn,"Luyoona Manzil, Gaamathi Magu",Kaafu,Thulusdhoo,,14,28
+144,Coral Queen Villa Ukulhas,Sunflower  Vashaa Magu,Alifu Alifu,Ukulhas,,5,10
+145,Coral Queen Villa Ukulhas,"Sunflower, Vashaamagu",Alifu Alifu,Ukulhas,,5,10
+146,Coral Reef Huraa,Ufanveli,Kaafu,Huraa,,3,6
+147,Coral Villa Ukulhas,"Meadows, Orchid Magu",Alifu Alifu,Ukulhas,,5,10
+148,Corner Stay - Dhangethi,"Roashaneege
+Ameenee Magu",Alifu Dhaalu,Dhangethi,,7,14
+149,Cottage 316,"Lucre, Funaadu",Gnaviyani,Fuvahmulah,,4,8
+150,Courtyard,Fasthari,Kaafu,Huraa,,12,24
+151,Coutyard,Fasthari,Kaafu,Huraa,,12,24
+152,Cowry Inn,Two Flower,Vaavu,Fulidhoo,,7,14
+153,Crown Beach Maldives,White Sand,Kaafu,Dhiffushi,,12,24
+154,Crown Beach Villas,Victory House,Kaafu,Dhiffushi,,6,12
+155,Crystal Crown,Lot- B-54-10098,Kaafu,Male',Hulhumale',8,16
+156,Crystal Dhiffushi,Acencer,Kaafu,Dhiffushi,,4,8
+157,Crystal Retreat,Crystal View,Seenu,Hithadhoo,,5,10
+158,Crystal Sands Villa,Carnationmaage,Kaafu,Maafushi,,19,38
+159,Dacha Thoddoo,Hope Ameenee Magu,Alifu Alifu,Thoddoo,,3,6
+160,Daisy Cottage Dhangethi,Daisy Cottage,Alifu Dhaalu,Dhangethi,,10,5
+161,Detour Beach View,"1. Hawai &  2. Himeyn ,Nikagas Magu",Alifu Dhaalu,Hangnaameedhoo,,10,20
+162,Dhaalu Inn Kudahuvadhoo,"Beach Heaven, Ameenee Magu",Dhaalu,Kudahuvadhoo,,5,10
+163,Dhamana Beach,"Beach House, Futtaru Hingun",Alifu Dhaalu,Mahibadhoo,,6,12
+164,Dhangethi Inn,Tokyo Villa,Alifu Dhaalu,Dhangethi,,4,8
+165,Dhangethi Retreat,Mars,Alifu Dhaalu,Dhangethi,,4,8
+166,Dhebanveli,Dhebanveli,Faafu,Nilandhoo,,4,8
+167,Dhidhdhooinn Beachview,Jareemaage,Haa Alifu,Dhidhdhoo,,6,12
+168,Dhiffushi Inn,Iris,Kaafu,Dhiffushi,,10,20
+169,Dhiffushi Island Villa,Bahuruva Dhonveli Goalhi,Kaafu,Dhiffushi,,4,8
+170,Dhiffushi White Sand Beach,Dhonveli Dhekunubai,Kaafu,Dhiffushi,,7,14
+171,Dhigurah Beach Inn,Bonthi,Alifu Dhaalu,Dhigurah,,4,8
+172,Dhigurah Dhonveli Boutique,"Zenith, Rankoka Goalhi",Gaafu Alifu,Dhigurah,,5,10
+173,Dhigurah Retreat Beach- Your Home in Paradise,Tharaha,Alifu Dhaalu,Dhigurah,,4,8
+174,Dhiguveli,Raalhufah / Kethi,Alifu Dhaalu,Dhigurah,,19,38
+175,Dhiguveli Breeze,White Coral,Alifu Dhaalu,Dhigurah,,,
+176,Dhimyaath Stay,M. Dhimyaath,Kaafu,Male',Maafannu,55,110
+177,Dhivehi Experience,Ocean Weev,Alifu Dhaalu,Dhigurah,,3,6
+178,Dhoadhi Retreat,"Ayota, Randhaa Magu",Kaafu,Thulusdhoo,,7,14
+179,Dhoani Maldives Guesthouse,"Fehiali, Maarana Magu",Baa,Kendhoo,,6,12
+180,Dhondhooni Lounge,Hulhumale' Lot. No. 10507,Kaafu,Male',Hulhumale',4,8
+181,Dhonfulhafi Beach View and Spa,"Roshan Beach , Gahaa",Baa,Maalhos,,10,20
+182,Dhonfulhafi Retreat,Fair view,Baa,Maalhos,,4,8
+183,Dhonkamana Beach Villa,"Aahama, Bodufungandu Magu",Baa,Thulhaadhoo,,7,14
+184,Dhonkamana Stay,Sosunge,Alifu Alifu,Thoddoo,,6,12
+185,Dhonveli Inn,"Annaarumaage, Dh. Bandidhoo",,,,7,14
+186,Dhooni Finolhu Guesthouse,"Vasmeeru Fiya, Huravee Magu",Baa,Maalhos,,5,10
+187,Dravida Maldives,"Shady Corner
+Abuharee Magu",Alifu Dhaalu,Maamigili,,5,10
+188,Dream Coral,BlueKiyaage,Alifu Alifu,Thoddoo,,6,12
+189,Dream Inn @ Thulusdhoo,Sueyz,Kaafu,Thulusdhoo,,5,10
+190,Dream Relax,Hulhumale' Lot. No. 10460,Kaafu,Male',Hulhumale',6,12
+191,Dream Relax Inn,Hulhumale' Lot. No. 10812,Kaafu,Male',Hulhumale',12,24
+192,Dream Sunset Beach and Spa,"Hulhumale' Lot no. 10976  No. 17, Nirolhu Magu",Kaafu,Male',Hulhumale',20,40
+193,Dreams Grand,Hulhumale' Lot. No. 10467,Kaafu,Male',Hulhumale',11,22
+194,Due Palm Guest House,Babulhaage,Vaavu,Keyodhoo,,8,4
+195,Eden Blue,Blue Waves,Kaafu,Thulusdhoo,,4,8
+196,Ekefaru Inn,Billion,Gaafu Alifu,Villingili,,6,12
+197,Eleven Trees,Hulhumale' Lot. No. 11038,Kaafu,Male',Hulhumale',15,30
+198,Elite Beach Inn,Hulhumale' Lot. No. 10503,Kaafu,Male',Hulhumale’,10,20
+199,EM Beach Maldives,Seesange (South ward),Kaafu,Himmafushi,,6,12
+200,Endhaa Divers Home,Endhaa,Gnaviyani,Fuvahmulah,,4,8
+201,Endheri Residence,"Shelistial, Vidhuvaru Goalhi",Kaafu,Guraidhoo,,3,6
+202,Endheri Sunset,Endheri Lodge,Alifu Dhaalu,Dhangethi,,10,20
+203,Entre Azules,"Love Nest, Haveeree Higun",Kaafu,Maafushi,,14,28
+204,EQ Inn,Star Lodge,Meemu,Muli,,4,8
+205,Equator Holiday Inn,Island Villa,Gnaviyani,Fuvahmulah,,4,8
+206,Equator Homestay,Hirihamaathige,Seenu,Hulhudhoo,,6,12
+207,Equator Villa,"Naares
+1, Halaveli Magu
+Maafushi, Kaafu Atoll
+Republic of Maldives",Kaafu,Maafushi,,6,12
+208,Equatorial Diver's Lodge,Thilinfaru,Seenu,Feydhoo,,11,22
+209,Escapism Maldives,"Asareege
+Shaheed Ali Hingun",Alifu Alifu,Feridhoo,,6,12
+210,Ethereal Inn,Nooraanee Villa,Kaafu,Maafushi,,6,12
+211,Everest Lodge,"Everest, Mohamed Thakurufaanu Magu",Seenu,Meedhoo,,4,8
+212,Eveylaa Guesthouse,Hahethi,Vaavu,Fulidhoo,,4,8
+213,Evila inn Thoddoo,Haavilla,Alifu Alifu,Thoddoo,,6,12
+214,Explore Island Inn,Edhuruge,Lhaviyani,Kurendhoo,,3,6
+215,Express Inn,"Hulhumale', 10787",Kaafu,Male',Hulhumale',15,30
+216,Eyot Wave,Aairu,Kaafu,Himmafushi,,4,8
+217,Ezmeralda Maldives,"Hulhumale' Plot No. 10590, Hithigas Magu",Kaafu,Male',Hulhumale’,10,20
+218,Faima Fishing Lodge,"Neeloafaruge, Dheyliyaa Magu",Baa,Dharavandhoo,,6,12
+219,Fairytale Inn,"1. Aathari, 2. Yellow Leaf, 3. Shooting Star, Ameenee Magu",Alifu Alifu,Thoddoo,,9,18
+220,Fanhaa Guesthouse,Flower Garden,Haa Dhaalu,Hanimaadhoo,,6,12
+221,Fari Lodge,Maafarivaage Banafsa Goalhi,Kaafu,Kaashidhoo,,3,6
+222,Fatims Beach House,1.Ocean Blue 2.Janavareehiyaa 3.Janavareege,Kaafu,Maafushi,,9,18
+223,Fazaa View Inn,"Fazaa, Kasthoori Magu",,,,5,10
+224,Fehendhoo Stay,"Paris, Haveeree Hingun",Baa,Fehendhoo,,5,10
+225,Feridhoo Beach Villa,"Bahaaruge, Haveeree Hingun",Alifu Alifu,Feridhoo,,12,24
+226,Feridhoo Inn,Reena Manzil,Alifu Alifu,Feridhoo,,5,10
+227,Finimas Residence,"Sheen,    Thimarafushi,  Thaa Atoll",,,,6,12
+228,Finolhu Beach Guesthouse,Handhufalhi,Vaavu,Felidhoo,,5,10
+229,Finolhu Dhigurah,Ocean Wave,Alifu Dhaalu,Dhigurah,,5,10
+230,Fins Dive and Leisure Inn,Karishmaa,Alifu Alifu,Rasdhoo,,5,10
+231,Fisherman's House,Finivaage,Gaafu Alifu,Maamendhoo,,3,6
+232,Five Coral Inn,Fashan,Baa,Kamadhoo,,9,18
+233,Five Ens Lodge,Five Ens,Vaavu,Keyodhoo,,3,6
+234,Five Rose Guest House,Five Rose,Lhaviyani,Kurendhoo,,3,6
+235,Fiyala Homestay,Wind House,Seenu,Feydhoo,,5,10
+236,FSS Residence,Viligileege,Gaafu Dhaalu,Hoadehdhoo,,5,10
+237,Fulhadhoo Inn,Silver Beach,Baa,Fulhadhoo,,4,8
+238,Fulidhoo Ihaa Lodge,Ranfas,Vaavu,Fulidhoo,,3,6
+239,Fulidhoo La perla Guest House,Lapella,Vaavu,Fulidhoo,,3,6
+240,Fulidhoo White Inn,Ithaa,Vaavu,Fulidhoo,,6,12
+241,Fushi Stay,Vafaa,Baa,Hithaadhoo,,5,10
+242,Fuvahmulah Inn,Amico,Gnaviyani,Fuvahmulah,,5,10
+243,Gaafaru Burulu Inn,Nookokaage,Kaafu,Gaafaru,,5,10
+244,Gaafaru View Inn Maldives,"Silver House 12, Husnuheena Magu",Kaafu,Gaafaru,,7,14
+245,Galaxy Sunrise,Galaxy,Vaavu,Fulidhoo,,5,10
+246,Gaskara Guesthouse,"Gaskara, Gaskara Goalhi",Shaviyani,Maroshi,,4,8
+247,Globus Cottage Inn,Hiya Vahi,Baa,Hithaadhoo,,10,20
+248,Goby Lodge,"Oyster, Latheefee Hingun",Alifu Dhaalu,Mahibadhoo,,4,8
+249,Golden Sails Guesthouse,"G. Uthuru, Majeedhee Magu",Kaafu,Male',Galolhu,21,42
+250,Golhaa View Inn-By Tes,Cornbe Beach,Kaafu,Thulusdhoo,,10,20
+251,Grace Beach Inn,Hulhumale' Lot. No.10103,Kaafu,Male',Hulhumale',7,14
+252,Green Flora,Shima,Kaafu,Male',Villimale',17,34
+253,Green Inn,Green Heaven,Dhaalu,Maaenboodhoo,,6,12
+254,Green Leaf Omadhoo,Gahaa,Alifu Dhaalu,Omadhoo,,6,12
+255,Gunbaru Inn,Asseyri,Alifu Alifu,Ukulhas,,11,22
+256,Guraidhoo Palm Inn,Nisha Manzil,Kaafu,Guraidhoo,,15,30
+257,Gurus Maldives,Beach Coral,Kaafu,Gulhi,,4,8
+258,H78,Hulhumale' Lot. No. 11049,Kaafu,Male',Hulhumale',15,30
+259,Hanifaru Transit Inn,Arumaan,Baa,Dharavandhoo,,4,8
+260,Happy Feet Inn,Dhefaiykoalhi,Kaafu,Kaashidhoo,,5,10
+261,Hathaa Beach Maldives,Hulhumale' Lot. No. 10711,Kaafu,Male',Hulhumale',7,14
+262,Haveyli Grande,"Haveyli, Sosun Magu",Alifu Alifu,Feridhoo,,3,6
+263,Heavenly Residence,Haveyli,Alifu Alifu,Thoddoo,,5,10
+264,Hedheykuri Residence,"Dhoodigan, Hedheykuri, Bodufannu Magu",Gnaviyani,Fuvahmulah,,3,6
+265,Hello Ocean View,"Block 114 Commercial Land, Funadhoo, Shaviyani Atoll, Republic of Maldives",,,Funadhoo,4,8
+266,Heron Beach Dhiffushi,"Hudhuveli, Saleemee Hingun",Kaafu,Dhiffushi,,14,28
+267,Hevana,"Iruvai, Flower House & Midnight",Vaavu,Keyodhoo,,10,20
+268,Himeyn Beach Inn Maldives,"1. Boalhage, 2. Minivan Asseyri, Sosun Magu, Uthuru Avah",Haa Dhaalu,Hanimaadhoo,,4,8
+269,Himeyn Beach Retreat,Silver Star Daisy Magu,Haa Dhaalu,Hanimaadhoo,,3,6
+270,Himmafushi Inn,"Hedheykuri, Bodu Kashi Magu",Kaafu,Himmafushi,,4,8
+271,Himmafushi Surfing Home,Blowing Roashan,Kaafu,Himmafushi,,3,6
+272,Hireath Island Home,"Quick Silver, Roashanee Magu",Kaafu,Guraidhoo,,5,10
+273,Hitha Maldives,"Vaadhee, Ameenee Magu",Alifu Dhaalu,Omadhoo,,4,8
+274,Hiyalee Inn,"Reef Side, Ameenee Magu",Alifu Dhaalu,Maamigili,,5,10
+275,Hoandeddhoo Inn,Uthuruge,Gaafu Dhaalu,Hoandehdhoo,,3,6
+276,Holiday Cottage,Asurumaahiya,Alifu Alifu,Thoddoo,,8,16
+277,Holiday Garden Rasdhoo,"Asareege, Saharaa Magu",Alifu Alifu,Rasdhoo,,6,12
+278,Holiday Grand Thoddoo,Nooru,Alifu Alifu,Thoddoo,,4,8
+279,Holiday Haven Ukulhas,"	Akkaleena, Miskiyy Magu",Alifu Alifu,Ukulhas,,4,8
+280,Holiday Home Fuvahmulah,"Funaadu, Dhoogas, Dhonmahumoodhu Hingun",Gnaviyani,Fuvahmulah,Funaadu,3,6
+281,Holiday Home Kelaa,"Guraha
+Dhiyares",Haa Alifu,Kelaa,,10,20
+282,Holiday Home Rasdhoo,Lily Shadow,Alifu Alifu,Rasdhoo,,5,10
+283,Holiday Mathiveri Inn,Hiyfaseyfa Vaadhee,Alifu Alifu,Mathiveri,,8,16
+284,Holiday Nest,Ournest,Baa,Kendhoo,,3,6
+285,Holiday Village Retreat,Vaadhee,Alifu Alifu,Bodufolhudhoo,,4,8
+286,Holikan Baech,Maathila,Kaafu,Maafushi,,27,54
+287,Honors Residence,"Plot No's: C-441
+C-443
+C-444
+C-445
+C-451
+C-453
+C-454",Laamu,Gan,,28,56
+288,Horsburgh Island Guest House,"Fange, Goidhoo, Baa Atoll, Republic of Maldives",Baa,Goidhoo,,5,10
+289,House Clover,Ma. Anaarukalee,Kaafu,Male',Machchangolhi,17,34
+290,House Clover Hana,Hulhumale' Lot. No. 10794,Kaafu,Male',Hulhumale',11,22
+291,Hudhu Velaa,Yaadhu,Baa,Dhonfanu,,4,8
+292,Hudhufas Villa,"Hudhufas, Shaheed Ali Hingun",Alifu Alifu,Thoddoo,,4,8
+293,Hudhuveli kamadhoo,Hudhuveli,Baa,Kamadhoo,,4,8
+294,Hudhuveli Maldives,"Moonimaage, Ameenee Magu",Alifu Dhaalu,Omadhoo,,6,12
+295,Hulha'ngu Lodge,Hulh'nguge,Kaafu,Himmafushi,,6,12
+296,Hulhu Villa Beach,"Hulhumale', Lot No. 10092",Kaafu,Male',,12,24
+297,Huraa East Inn,Endheri,Kaafu,Huraa,,3,6
+298,Huvan Beach,Hulhumale' Lot. No. 10710,Kaafu,Male',Hulhumale',22,44
+299,Huvan Inn,Happy Garden,Vaavu,Fulidhoo,,5,10
+300,iCom Marina Sea View,"Dhilkash, Rahvashaa Hingun",Kaafu,Maafushi,,36,72
+301,Ihaven Thulusdhoo,Hivvaru,Kaafu,Thulusdhoo,,8,16
+302,Ikhfa Guesthouse,Ikhfa,Noonu,Velidhoo,,8,4
+303,Ila Grand,"Hulhumale' Lot No. 11118, Nirolhumagu",Kaafu,Male',Hulhumale',12,24
+304,Ilaa Beach Maldives,Dhoores,Kaafu,Gulhi,,13,26
+305,Infinity Dhiffushi,"Nazufaru, Aakuri Magu",Kaafu,Dhiffushi,,7,14
+306,Inguraidhoo Beach Inn,"Blue Heaven,  Hihfaseyha Magu",Raa,Inguraidhoo,,5,10
+307,Into the Blue Lodge,Blue Sky,Vaavu,Keyodhoo,,8,16
+308,Iris Beach Residence,Iris,Kaafu,Guraidhoo,,11,22
+309,Iru Guest House,"Noomaage, Ameer Ameen Magu",Kaafu,Thulusdhoo,,5,10
+310,Isla Dhiffushi,Noovil,Kaafu,Dhiffushi,,7,14
+311,Island Ambience,"Four Season, Iruvai Magu",Kaafu,Maafushi,,7,14
+312,Island Break,Javaahiru,Vaavu,Fulidhoo,,7,14
+313,Island Grand Maldives,fullmoon,Alifu Dhaalu,Hangnaameedhoo,,5,10
+314,Island Guest,"Macury, Basheeree Hingun, Maamendhoo, Gaafu Alifu Atoll, Republic of Maldives",Gaafu Alifu,Maamendhoo,,4,8
+315,Island Holiday Lodge,Luboamaage,Vaavu,Keyodhoo,,3,6
+316,Island Home Inn,Uranus,Alifu Alifu,Ukulhas,,8,16
+317,Island Host,Vienna,Noonu,Velidhoo,,3,6
+318,Island Luxury Dive,"Blue Star, Rahvehi Hingun",Baa,Fulhadhoo,,8,16
+319,Island Luxury Fulhadhoo,Ocean Front,Baa,Fulhadhoo,,8,16
+320,Island Pavilion Adh. Hangnaameedhoo,"Pavilion, Nikagas Magu",Alifu Dhaalu,Hangnaameedhoo,,6,12
+321,Island Scuba Inn,Okayge,Alifu Dhaalu,Dhangethi,,7,14
+322,Island Zephyr,Shine,Baa,Goidhoo,,10,20
+323,Islandlifemaldives Retreat & Spa,"1.	Vidhuvaru  2.	Aavehi  3.	Vaadhee 4.	Tikana Magoodhoo",Noonu,Magoodhoo,,11,22
+324,Isle Heron,Vinavi,Faafu,Nilandhoo,,8,16
+325,Isle Royal Inn,Fasfiya,Gnaviyani,Fuvahmulah,,4,8
+326,Ithaa Beach Maldives,Garden,Kaafu,Guraidhoo,,4,8
+327,Ithaa Dhigurah,Shine,Alifu Dhaalu,Dhigurah,,6,12
+328,Ithaa Hiyaa,"Happy Night, Valu Magu",Kaafu,Dhiffushi,,5,10
+329,Ithaa Inn Kamadhoo,"Ithaa, Feeroaz Magu",Baa,Kamadhoo,,4,8
+330,Ithaa Thoddoo Inn,Keeli,Alifu Alifu,Thoddoo,,6,12
+331,Ivilaa View,Vinavi,Faafu,Nilandhoo,,8,16
+332,Jail Break Surf Inn,Akiri,Kaafu,Himmafushi,,4,8
+333,Jerrys Dive Lodge,Hudhuasurumaage,Alifu Alifu,Rasdhoo,,5,10
+334,Jeym Lodge,Blue Berry Moonlight Goalhi,Alifu Alifu,Thoddoo,,14,28
+335,Jupiter Sunrise Lodge,Jupitor,Vaavu,Keyodhoo,,4,8
+336,K Inn,Fair view,Kaafu,Kaashidhoo,,8,16
+337,Kaafu Inn,Hudhufas,Kaafu,Guraidhoo,,4,8
+338,Kaani Beach,Raiyvilaage,Kaafu,Maafushi,,18,36
+339,Kaani Grand Seaview,Vaijeheyge,Kaafu,Maafushi,,56,130
+340,Kaani Lodge,H. Ocean Villa,Kaafu,Male',Henveiru,12,24
+341,Kaani Palm Beach,"Relic, Ziyaaraiy Magu",Kaafu,Maafushi,,105,210
+342,Kaani Village,Athamaa ge,Kaafu,Maafushi,,20,40
+343,Kahanbu Ocean View,"1. Ihaa & 2. Aligaa Hulhangubai, Neruvelimagu",Kaafu,Thulusdhoo,,3,6
+344,Kalhumuraka Guest House,Veli,Vaavu,Keyodhoo,,4,8
+345,Kam,H Roanuge Meheli Goalhi,Kaafu,Male',Henveiru,27,54
+346,Kamadhoo Inn,"Moon Light, Roashanee Magu",Baa,Kamadhoo,,16,32
+347,Kanbili G.H,Destination,Kaafu,Himmafushi,,8,16
+348,Kanborani,Huraaveli,Kaafu,Huraa,,12,24
+349,Kandoofa Village,Forest,Meemu,Mulah,,6,12
+350,Karaa Village,Vaadhee,Alifu Alifu,Thoddoo,,4,8
+351,Karanka Villas,Karankaage,Alifu Dhaalu,Mahibadhoo,,5,10
+352,Kethi Stay,Kethi,,,,4,8
+353,Keyla Inn,Secret,Kaafu,Thulusdhoo,,8,16
+354,Kiha Beach,"Haveli
+Shagefee House",Baa,Dharavandhoo,,10,20
+355,Kihaa Holiday Home,"Sea Star, Maafarivaa Hingun, B. Kihaadhoo, Rep. of Maldives",,,,4,8
+356,Kinan Retreat,Fenkuri,Vaavu,Fulidhoo,,9,18
+357,Kingsway Thoddoo,Hazaarumaage,Alifu Alifu,Thoddoo,,12,24
+358,Koamas View,Happy Night,Vaavu,Keyodhoo,,4,8
+359,Koimala Beach,fenkuri,Kaafu,Ukulhas,,4,8
+360,Kokaa Residence,"Kokaage, Miskiy Magu",Haa Alifu,Kelaa,,3,6
+361,Konut by Thakuru,"Rabee-ee Ufaa
+Roashanee Magu",Kaafu,Guraidhoo,,5,10
+362,Kudhi Boli Beach House,Vaijeheyge,Kaafu,Thulusdhoo,,8,16
+363,Kunaa Beach Inn,"Hiyalee Gulshan, Banafsa Higun",Vaavu,Fulidhoo,,6,12
+364,Kuredhi Beach Inn,"1. Gahaa & 2. Galaxy, Ziyaarai Magu",Kaafu,Maafushi,,12,24
+365,Kuri Beach View Inn,"Theeni,  Lily Magu",Alifu Dhaalu,Omadhoo,,3,6
+366,Kuri Himandhoo Inn,Hazeleen,Alifu Alifu,Himandhoo,,3,6
+367,Kuri Inn,Kuri,Alifu Dhaalu,Omadhoo,,4,8
+368,L.V.I.S Blancura,Haathorn & Zeesham,Baa,Dharavandhoo,,11,22
+369,L.V.I.S Village,Finivai,Baa,Dharavandhoo,,6,12
+370,La Cabana Maldives,Azum,Alifu Dhaalu,Maamigili,,7,14
+371,La Due Thulusdhoo,Samee Manzil,Kaafu,Thulusdhoo,,3,6
+372,La Isla Tropica,Lainoofaruge,Kaafu,Guraidhoo,,4,8
+373,La Luna Boutique,Bageechaage,Alifu Dhaalu,Dhangethi,,4,8
+374,La Palma Villa,Cadburys Jumhooree Magu,Alifu Alifu,Ukulhas,,6,12
+375,Lagoon View Maldives,Bodufulhadhoo Guesthouse Sarahadhdhu,Alifu Alifu,Bodufolhudhoo,,9,18
+376,Lagoon Villa Thoddoo,Waarey villa,Alifu Alifu,Thoddoo,,9,18
+377,Lagoona Sunset,Fenfulhafi,Kaafu,Maafushi,,7,14
+378,Laguna Retreat,"Funamaa Palace, Ranikilege Magu",Gaafu Dhaalu,Vaadhoo,,10,20
+379,Lea Spa Maafushi,Gulfaam Villa,Kaafu,Maafushi,,16,32
+380,Leaf Fish Guesthouse Maldives,Jazeela Manzil,Vaavu,Keyodhoo,,5,10
+381,Leaf Fish Guesthouse Maldives,Jazeela Manzil,Vaavu,Keyodhoo,,5,10
+382,Leisure Boutique,"Vivid
+Furas Magu",Kaafu,Maafushi,,11,22
+383,Leisure Inn Guest House,Udhares,Alifu Alifu,Bodufolhudhoo,,7,14
+384,Lets Go Huraa,"New Pearl, Huravee Magu",Kaafu,Huraa,,,
+385,Lhohi Inn,"Noovilaage, Orchid Magu",Noonu,Lhohi,,,
+386,Liberty Diving Paradise,Rindhali,Alifu Dhaalu,Mahibadhoo,,4,8
+387,Liberty Guest House,Feroas,Alifu Dhaalu,Mahibadhoo,,6,12
+388,Like Home,"Paris, Kaneeru Magu",Vaavu,Fulidhoo,,6,12
+389,Lily Rest,Blue Sky,Kaafu,Maafushi,,5,10
+390,Local Island Inn,Moodhumaage,Alifu Dhaalu,Hangnaameedhoo,,4,8
+391,Local Travel Beach,Sea or Water,Alifu Dhaalu,Hangnaameedhoo,,4,8
+392,Lodger Guest House,Amaz,Seenu,Maradhoo Feydhoo,,3,6
+393,Lofts by Bliss,"Arutha, Mirihi Magu",Alifu Dhaalu,Dhigurah,,4,8
+394,Lonuveli,Hulhumale' Lot. No. 10712,Kaafu,Male',Hulhumale',19,38
+395,"Luau Beach Inn, Maldives",Dheyliyaage,Vaavu,Fulidhoo,,14,28
+396,Luna Lodge,Aroma,Lhaviyani,Olhuvelifushi,,5,10
+397,Lunara Residence,Hudhuveli,Alifu Alifu,Thoddoo,,8,4
+398,Luxury Beach Maldives,Nalakuri,Kaafu,Guraidhoo,,5,10
+399,Maa Thundi,"Dhandimagu, Maa Thundi, Boashi Magu",Gnaviyani,Fuvahmulah,Dhandimagu,18,36
+400,Maafushi View,Manzil,Kaafu,Maafushi,,4,8
+401,Maalhos Thila Inn,Hina Villa,Alifu Alifu,Maalhos,,4,8
+402,Maamadi Boutique,Gulshan,Kaafu,Maafushi,,8,16
+403,Macnas Rasdhoo,Roashanee Maage,Alifu Alifu,Rasdhoo,,6,12
+404,Mactura Residence,Guraha,Baa,Maalhos,,4,8
+405,Madagali Inn,Kudhiruvaalige Dhekunubai,Kaafu,Guraidhoo,,3,6
+406,Madi Finolhu,Aagaraage,Baa,Maalhos,,3,6
+407,Madi Giri,Morning House,Baa,Maalhos,,7,14
+408,Madivaru Kro,Gasdhoshuge,Alifu Alifu,Rasdhoo,,6,12
+409,Magic Life Guest House,Little Hut,Vaavu,Felidhoo,,4,8
+410,Mahchavaru Maldives,Chaandhanee Magu,Alifu Alifu,Mathiveri,,6,12
+411,Maison Tiare,Najaf,Kaafu,Thulusdhoo,,3,6
+412,Mala Boutique Inn,"Nees
+Beach Road Magu",Alifu Dhaalu,Dhangethi,,4,8
+413,Maladiwa Beach & Spa,Abadhahfehi,Kaafu,Maafushi,,9,18
+414,Malas Island View,Malas,Vaavu,Fulidhoo,,3,6
+415,Maldives Seashine Guest House,"Madheena
+Huravee Magu",Kaafu,Huraa,,3,6
+416,Maldives Sunset Lodge and Village Guesthouse,Cute,Vaavu,Thinadhoo,,5,10
+417,Manaam Residence,Manaam,Haa Alifu,Hoarafushi,,5,10
+418,Mandhoo Guesthouse,Ethumaa,Alifu Dhaalu,Mandhoo,,4,8
+419,Mango Stay,Mango,Kaafu,Himmafushi,,4,8
+420,Mangrove Inn Hura,"Snow Drop, Hurriyaa Magu",Kaafu,Huraa,,6,12
+421,Manta Dhangethi,"Dhigali & Rindhali, Thingaumagu",Alifu Dhaalu,Dhangethi,,8,16
+422,Manta Reserve,"Thandiraiymaage, Orchid Magu",Baa,Maalhos,,5,10
+423,Manta Stay,"Nalahiya, Boduthakurufaanu Magu",Alifu Alifu,Thoddoo,,4,8
+424,Mantha View,Ifaashaa Manzil,Vaavu,Keyodhoo,,5,10
+425,Marble,M. Marble,Kaafu,Male',,30,60
+426,Mariana Inn,"1. Udhares Villa 
+2. Feeni Villa 
+3. Marvel",Kaafu,Gaafaru,,4,8
+427,Marina Bay Retreat and Spa,Hirigaa,Kaafu,Guraidhoo,,11,22
+428,Marina Boutique Fuvahmulah Maldives,Marina lodge,Gnaviyani,Fuvahmulah,,6,12
+429,Marine Holiday,"Hulhumale' Lot No. 10800, Unigas Magu",Kaafu,Male',Hulhumale',12,24
+430,Marukab Plaza,"1. H. Olive & 2. H. Rihi, Ameer Ahmed Magu",Kaafu,Male',Henveiru,40,80
+431,Masaaree Boutique,Gulshan,Kaafu,Maafushi,,8,16
+432,Masfalhi View Inn,Vilendoaf Garden,Vaavu,Felidhoo,,4,8
+433,Mathige Retreat,Mathige,Faafu,Magoodhoo,,4,8
+434,Mathiveri Beach View,"""New Heaven Nika Hingun""",Alifu Alifu,Mathiveri,,10,5
+435,Mathiveri Thundi Inn,Ranfaru,Alifu Alifu,Mathiveri,,3,6
+436,Medhufaru Guest House,Beruge. K. Guraidhoo,Kaafu,Guraidhoo,,6,12
+437,Mehel Holiday Home,"Mehel, Orchid Magu",Alifu Dhaalu,Mahibadhoo,,13,26
+438,Meri Maldives,Hulhumale' Lot No.10026,Kaafu,Male',Hulhumale',9,18
+439,Merijaan Maldives,"Sweet Garden,  Finihiyaa Goalhi",Kaafu,Maafushi,,,
+440,Met House,Mauzan,Kaafu,Thulusdhoo,,5,10
+441,Mi Lugar Retreat and Spa,1. Akaysia 2. Basma 3. Moorithi 4. Beach House 5. Beach View  6. Jooin 7. Hathihaa,Haa Dhaalu,Nolhivaranfaru,,8,16
+442,Midsummer Thulusdhoo,Rangali,Kaafu,Thulusdhoo,,4,8
+443,Millenium Island Residence,Millennium,Gnaviyani,Fuvahmulah,,9,18
+444,Mirian Sky,Aroma,Kaafu,Gaafaru,,8,16
+445,MO Guesthouses,"Fan
+Reeko Star",Laamu,Gan,,30,60
+446,Molar Wave,Maahiyaa,Kaafu,Himmafushi,,6,12
+447,Moodhu Guest House,Thuniya,Kaafu,Himmafushi,,4,8
+448,Moodhu Surf House,Thuniya,Kaafu,Himmafushi,,4,8
+449,Moodhumaa Inn,Never Land,Kaafu,Guraidhoo,,3,6
+450,Moonshell Residence,"Hedheykuri, Hiyfaseyha Magu",Baa,Maalhos,,5,10
+451,Muladdu Inn,Aaburuzeege,Seenu,Feydhoo,,4,8
+452,Muli Inn Surf View,"""Fehige Muli, Meemu Atoll Male', Republic of Maldives""",Meemu,Muli,,5,10
+453,Muraka Inn,Kandholhu,Kaafu,Gulhi,,8,16
+454,My House Maldives,Velimala,Haa Alifu,Vashafaru,,6,12
+455,Mystic Maldives,"Binaa
+Husnuheenaa Magu",Alifu Alifu,Mathiveri,,5,10
+456,Naalees Inn,Naalees,Raa,Hulhudhuffaaru,,3,6
+457,Nala Island Village,Snow White,Kaafu,Maafushi,,10,20
+458,Nala Veli Beach Villa,"Silver Grass, Orchid Magu",Alifu Alifu,Ukulhas,,17,34
+459,Nala Veli Villa,Sunlight,Alifu Alifu,Ukulhas,,6,12
+460,Narnia Maafushi,"Comrade Villa, Rahvashaa Higun",Kaafu,Maafushi,,4,8
+461,Natural Surf Villa,Neel,Kaafu,Himmafushi,,4,8
+462,Natural Vibe House,Sunshine,Kaafu,Himmafushi,,7,14
+463,Nature Inn,Moscow,Kaafu,Himmafushi,,5,10
+464,Naza Lodge,Vehi Midhilimagu,,,,4,8
+465,Nazaki Residences,"Mukurimagu Rayyithunge Guest House
+Gan, Laamu Atoll
+Republic of Maldives",Laamu,Gan,,16,32
+466,NB Grand,"Hulhumale' Lot no. 11085, Kelaa Magu",Kaafu,Male',Hulhumale',14,28
+467,Nemo Inn,Keyogasdhoshuge,Alifu Dhaalu,Omadhoo,,5,10
+468,New Breeze Thoddoo Inn,Ehfas,Alifu Alifu,Thoddoo,,7,14
+469,New Moon Village,Ever Shine Jumhooree Magu,Alifu Alifu,Ukulhas,,5,10
+470,New town Inn,Hulhumale' Lot. No. 10488,Kaafu,Male',Hulhumale',10,20
+471,Nihaali Maldives,NihaaliOrchid Magu,Baa,Kadarikilu,,10,20
+472,Nilandhe View,Vinavi,Faafu,Nilandhoo,,10,20
+473,Ninos,Roashan Villas,Kaafu,Guraidhoo,,4,8
+474,Nirili Villa,Nirili,Kaafu,Dhiffushi,,4,8
+475,Niru Isle Maldives,Niru,Kaafu,Gaafaru,,8,4
+476,Niu Inn and Spa,Hulhumale' Lot. No. 10585,Kaafu,Male',Hulhumale’,8,16
+477,Noah Beach House,"Zinma, Masodi Hingun",Kaafu,Himmafushi,,18,36
+478,Nolhi Escape,Beauty Villa,Haa Dhaalu,Nolhivaranfaru,,5,10
+479,Noo Moo,Hulhumale' Lot. No. 10075,Kaafu,Male',Hulhumale',12,24
+480,Noomuraka Inn,Noomuraka,Alifu Dhaalu,Omadhoo,,4,8
+481,Noovilu Suites,"""Heylhi & Hudhuhiri""",Alifu Dhaalu,Mahibadhoo,,6,12
+482,North Edge Inn,Amaazu,Shaviyani,Kanditheemu,,4,8
+483,Ocean Beach Inn - Maldives,"Asseyri, Beach Road",Alifu Dhaalu,Hangnaameedhoo,,4,8
+484,Ocean Cottage,Moon Star,Kaafu,Thulusdhoo,,5,10
+485,Ocean Grand,"Crystal View, Hulhumale' Lot No. 10717, Kaani Magu",Kaafu,Male',Hulhumale',30,60
+486,Ocean Lilly Inn,"Lily, Sosun Magu",Alifu Dhaalu,Hangnaameedhoo,,8,16
+487,Ocean Pearl Maldives,"Irudheymaage, Mirihi Magu",Kaafu,Gulhi,,8,16
+488,Ocean Retreat and Spa,Janavaree Hiyaa,Kaafu,Guraidhoo,,17,34
+489,Ocean Vibes Guesthouse,Red Apple,Kaafu,Huraa,,7,14
+490,Ocean Villa,Ocean Villa,Kaafu,Dhiffushi,,4,8
+491,Ocean Village Maldives,Rose Leen,,,,3,6
+492,Ocean Vista,West Pole,Kaafu,Maafushi,,5,10
+493,Ocean Voice Beach,"1. New Hope, 2. Iyaathu, Abadhahfehi Magu",Haa Dhaalu,Nolhivaranfaru,,7,14
+494,Ocean Waves Inn,Lucky Home,Kaafu,Gaafaru,,3,6
+495,Ocean Way Guraidhoo,Finivilaage,Kaafu,Guraidhoo,,4,8
+496,Oceana Boutique,Altivailis,Kaafu,Maafushi,,7,14
+497,Oceanic Inn,Hudhuveli,,,,4,8
+498,Oceano Beach Vashafaru,"Sandcastle, Salaahudheen Magu",Haa Alifu,Vashafaru,,5,10
+499,Octave,Ma. Jambuma,Kaafu,Male',Machchagoalhi,14,28
+500,Odi Kamadhoo,Udhares,Baa,Kamadhoo,,4,8
+501,Off Day Inn,H. Hiriyaadhoo,Kaafu,Male',Henveiru,15,30
+502,Old Town Inn,Arutha,Kaafu,Gaafaru,,4,8
+503,Olhumathi Inn,"Faza
+Orchid Magu",Alifu Alifu,Ukulhas,,3,6
+504,Olive Goidhoo,Olive/lilac,Baa,Goidhoo,,12,24
+505,Omadhoo Coral View Inn,Zeyvaru,Alifu Dhaalu,Omadhoo,,4,8
+506,Omadhoo Inn,Fathaha,Alifu Dhaalu,Omadhoo,,4,8
+507,One On Inn,West Coast,Seenu,Maradhoo,,9,18
+508,One The Island,Vaaru,Lhaviyani,Naifaru,,8,16
+509,Orchid Inn,Kandhu,Faafu,Nilandhoo,,3,6
+510,Orchid Inn Guest House,Kandhu,Faafu,Nilandhoo,,5,10
+511,Origami Inn,Thogbon Nooraanee Magu,Alifu Alifu,Himandhoo,,6,12
+512,Orimas Retreat,"Haveylee, Gaamathi Magu, Thulusdhoo, Kaafu Atoll, Republic of Maldives",Kaafu,Thulusdhoo,,5,10
+513,Ostrov,Palm Sade,Alifu Alifu,Ukulhas,,10,20
+514,Paguro Beach Inn,Pink Palace,Alifu Alifu,Ukulhas,,19,38
+515,Paguro Seaview,"Minivan Asseyri, Daisy Goalhi",Alifu Alifu,Bodufolhudhoo,,10,20
+516,Paguro Villa,Fasfiya,Alifu Alifu,Ukulhas,,7,14
+517,Palm Garden Thoddoo Inn,Pink Rose,Alifu Alifu,Thoddoo,,6,12
+518,Palm Gate,Shanhai,Kaafu,Thulusdhoo,,5,10
+519,Palm Lodge,Shanhai,Kaafu,Thulusdhoo,,5,10
+520,Palm Residence,Hiyaa,Alifu Alifu,Rasdhoo,,6,12
+521,Palm Rest,Dhehi Manzil,Kaafu,Kaashidhoo,,8,16
+522,Palm Rest - Magoodhoo,Everlast,Faafu,Magoodhoo,,6,12
+523,Palm Tree Maamigili,White Rose,Alifu Dhaalu,Maamigili,,4,8
+524,Palm Villa,Malagura,Noonu,Velidhoo,,6,12
+525,Palms Retreat,Sunshine Fulhadhoo Kilege Hingun,Baa,Fulhadhoo,,24,12
+526,Palmscape,"Hulhumale' Lot no. 10106, Dhiggaa Magu",Kaafu,Male',Hulhumale',10,20
+527,Pandanus Villa,Munich,Noonu,Velidhoo,,4,8
+528,Paradise Lagoon,Huvandhu,Alifu Dhaalu,Dhangethi,,3,6
+529,Paradise Retreat,Landscape Bahaaree Higun,Kaafu,Maafushi,,6,12
+530,Paradisola Maldives,"Suhaanee, Orchid Magu",Noonu,Fodhdhoo,,5,10
+531,Paralian Hulhumale',Hulhumale' Lot. No. 10359,Kaafu,Male',Hulhumale',18,36
+532,Paris Inn,Paris,Alifu Dhaalu,Mahibadhoo,,8,16
+533,Pearl Sands at Huraa,Huraa Uthuru Thundi,Kaafu,Huraa,,32,64
+534,Pearlshine Retreat Maldives,Raazdhaan,Kaafu,Gulhi,,6,12
+535,Pebbles Inn,Lagoon View,Seenu,Hithadhoo,,14,28
+536,Pelican Beach Maafushi,Fathis,Kaafu,Maafushi,,6,12
+537,Perla Dhangethi,Saan,Alifu Dhaalu,Dhangethi,,14,28
+538,Pine Lodge Maldives,"Haasil, Hulhumale' Lot No. 11103, Kelaa Magu",Kaafu,Male',Hulhumale',12,24
+539,Pinewood Hideaway,"Haama, Haama Goalhi",Seenu,Meedhoo,,3,6
+540,Planktons Beach,Hulhumale’ Lot. No 10094,Kaafu,Male',Hulhumale’,8,16
+541,Plumeria,Moony Night,Vaavu,Thinadhoo,,21,42
+542,Plumeria Sea View,"Olhugiri, Feyrugasdhoshuge",Vaavu,Thinadhoo,,27,54
+543,Point Inn,"Point Nayaa, Hulhumale’ Lot no. 10366, Hirundhu Magu",Kaafu,Male',Hulhumale’,15,30
+544,Portia and Spa,Shilfas,Kaafu,Dhiffushi,,10,20
+545,Premier Beach,"Tourism Zone, K. Gulhi (state owned) 
+Block No. 13",Kaafu,Gulhi,,4,8
+546,Q Inn,Hulhumale' Lot. No. 11026,Kaafu,Male',Hulhumale',12,24
+547,Quicksand Rasdhoo,"Fiya & Murangamaage
+Saharaamagu",Alifu Alifu,Rasdhoo,,6,12
+548,Raabade Maldives,Viligileege,Gaafu Dhaalu,Hoadehdhoo,,5,10
+549,Raakani Home,Beachville,Haa Dhaalu,Hanimaadhoo,,3,6
+550,Raakani Villas & Spa,Jewel,Kaafu,Guraidhoo,,7,14
+551,Raalhu Dhangethi,"Finihiyaage, Chaandhanee Magu",Alifu Dhaalu,Dhangethi,,3,6
+552,Rai Nika Beach,Veenus Villa,Vaavu,Thinadhoo,,5,10
+553,Ramzu Villa,"Night Rose,   Asseyri Magu",Alifu Alifu,Thoddoo,,14,28
+554,Ranboli Stay,"Gold Coin, Meeraaz Magu",Baa,Dharavandhoo,,5,10
+555,Rangali Eto's,Rangali,Kaafu,Guraidhoo,,3,6
+556,Rani Beach,"Eash Villa, Hulhumale' 10135",Kaafu,Male',Hulhumale',6,12
+557,Ras Reef,Niyama,Alifu Alifu,Rasdhoo,,5,10
+558,Rasdhoo Coralville,Niyami,Alifu Alifu,Rasdhoo,,5,10
+559,Rasdhoo Dive Lodge,"""Zazeena, Dhilkashvilla""",Alifu Alifu,Rasdhoo,,4,8
+560,Rasdhoo Grand and Spa,Jabroalgasdhoshuge,Alifu Alifu,Rasdhoo,,12,24
+561,Rasdhoo Island Inn,"Bonthi, Huraagandu Magu, Rasdhoo, Alifu Alifu Atoll, Republic of Maldives",Alifu Alifu,Rasdhoo,,4,8
+562,Rasdhoo Island Inn Beach Front,Ahsidha,Alifu Alifu,Rasdhoo,,8,16
+563,Rasdhoo Stay,Dawn Light / Hudhuasurumaage,Alifu Alifu,Rasdhoo,,12,24
+564,Rasdhoo Vibes,"Lillymeed, Ghaazee Magu",Alifu Alifu,Rasdhoo,,6,12
+565,Rasdhoo Wave Blue Guest Inn,Kudhimaage,Alifu Alifu,Rasdhoo,,4,8
+566,Rasdu View Inn,Morning Happy,Alifu Alifu,Rasdhoo,,5,10
+567,Rashu Hiyaa,"Zaifan, Lovely",Kaafu,Dhiffushi,,,
+568,Rasvillage,Vinavi,Alifu Alifu,Rasdhoo,,7,14
+569,Reef Edge,Reality,Kaafu,Thulusdhoo,,12,24
+570,Reethi Villa,Rihiveli,Vaavu,Thinadhoo,,3,6
+571,Rehendhi Villa,"Maathila, Miskiy Magu",Kaafu,Maafushi,,27,54
+572,Rekidhiye Inn,"Mauman, Sunset Hingun",Seenu,Hithadhoo,,18,36
+573,Relax Lodge,Asurumaage,Alifu Alifu,Thoddoo,,8,16
+574,Relax Residence,,Alifu Alifu,Thoddoo,,4,8
+575,Relax Villa,"New Line, Haveeree Hingun",Alifu Alifu,Thoddoo,,5,10
+576,Remora by Magdalena,"Orchidview, Eid Miskih Magu",Faafu,Nilandhoo,,7,14
+577,Remora Summer House,Noor,Faafu,Nilandhoo,,6,12
+578,Reposo View,Musthafaa Manzil,Baa,Dharavandhoo,,4,8
+579,Resten Inn,Neel Villa,Alifu Alifu,Thoddoo,,3,6
+580,Resten View,Alivaage,Alifu Alifu,Thoddoo,,5,10
+581,Reveries Diving Village,Monaan,Laamu,Gan,,23,46
+582,Rihiveli Inn,"Rihiveli
+Moonlight Magu",Thaa,Kinbidhoo,,4,8
+583,Rij Hulhumale,Hulhumale' Lot No. 10056 no:06  Nirolhu Magu,Kaafu,Male',Hulhumale',10,20
+584,Rindali,"Malaaz, Hiyfaseyha Magu, Maaenboodhoo, Dhaalu Atoll, Republic of Maldives",,,,3,6
+585,Rindhali Beach,Industrial Plot,Kaafu,Kaashidhoo,,7,14
+586,Rip Tide Vacation Inn,1. Dhonveli 2. Veli,Kaafu,Guraidhoo,,7,14
+587,Ripple Beach Inn,Hulhumale' Lot No. 10117,Kaafu,Male',Hulhumale',10,20
+588,Rising Sun Beach View,Askani Village-1,Vaavu,Thinadhoo,,4,8
+589,"Riveli Retreat, Mathiveri, Maldives",Blue Reef,Alifu Alifu,Mathiveri,,6,12
+590,Rivethi Beach Boutique,Hulhumale’ Lot No. 11070,Kaafu,Male',Hulhumale’,15,30
+591,Riyaludhathuru,"Meezaan, Boduthakurufaanu Magu",Alifu Alifu,Thoddoo,,3,6
+592,RNB Boutique,Hulhumale' Lot. No. 10668,Kaafu,Male',Hulhumale',10,20
+593,Rosemary Boutique,"Yaaz
+06, Ziyaarai Magu",Kaafu,Maafushi,,22,44
+594,Rosy Villa,"Rosy Villa
+137, Neeloafaru Magu",Kaafu,Guraidhoo,,12,24
+595,Royal Beach Dhigurah,Noomaraage,Alifu Dhaalu,Dhigurah,,3,6
+596,Royal Reef Stay,Gaskara,Alifu Alifu,Mathiveri,,5,10
+597,Royal Stay Inn,Blue Star,Alifu Alifu,Thoddoo,,5,10
+598,RV,"Teal Villa & Fares, Haveeree Higun",Alifu Alifu,Thoddoo,,6,12
+599,Sabba Beach Suite,Kasthoorige,Noonu,Fodhdhoo,,12,24
+600,Sabba Beach Villas and Spa,"Bahaaruge, Boduthakurufaanu Magu",Noonu,Fodhdhoo,,12,24
+601,Sabba Summer Suite,Minaa,Noonu,Fodhdhoo,,5,10
+602,Saima Inn,"Saimaage
+Venus Magu",Alifu Alifu,Maalhos,,4,8
+603,Sala Boutique Residence,H. Buruneege,Kaafu,Male',Henveiru,6,12
+604,Salt Beach,Faalandhoshuge,Kaafu,Maafushi,,14,28
+605,Salt Villa Ukulhas,Sunrise,Kaafu,Ukulhas,,6,12
+606,Sama Garden,Miskidhdhoshuge,Baa,Fehendhoo,,8,16
+607,Samann Grand,H. Minaan,Kaafu,Male',Henveiru,26,52
+608,Samann Host,Hulhumale' Lot. No. 10802,Kaafu,Male',Hulhumale',12,24
+609,Sameydhaan Inn Fuvahmulah,Sameydhaan / Hoadhandu,Gnaviyani,Fuvahmulah,,6,12
+610,Samura Maldives,Golden Leaf & Ocean Beach,Kaafu,Thulusdhoo,,5,10
+611,Samura Panorama,"Binaa, Ameer Ameen Magu",Kaafu,Thulusdhoo,,16,32
+612,Sancia Lodge,Manzil,Vaavu,Fulidhoo,,3,6
+613,Sand Inn Residence,Dheyliyaa Vilaa,Baa,Kamadhoo,,8,16
+614,Sands Exotic,"Fandunuvaage, Rehendhi Hingun",Kaafu,Thulusdhoo,,12,24
+615,Sands Grand,"Shady Corner, Mercury Road",Alifu Dhaalu,Dhigurah,,12,24
+616,Sands Inn Mathiveri,"Milano
+Chandhanee Magu",Alifu Alifu,Mathiveri,,5,10
+617,Sandy Heaven Maldives,Yusra Manzil,Kaafu,Gulhi,,7,14
+618,Santa Rosa,Golden Night,Kaafu,Thulusdhoo,,8,16
+619,Sava Home,Finihiyaage,Kaafu,Huraa,,5,10
+620,Scuba Inn,Kaamineege,Alifu Dhaalu,Omadhoo,,6,12
+621,Scuba Residence,"Maadhadu, New Dawn Fenfuvahmagu",Gnaviyani,Fuvahmulah,,11,22
+622,Sea Breeze View,Paalmaa,Kaafu,Huraa,,6,12
+623,Sea Side Villa,Sheelin,Kaafu,Dhiffushi,,7,14
+624,Sea Star Diving Thulusdhoo,,Kaafu,Thulusdhoo,,,
+625,Sea View Villa,Olhukuri,Alifu Alifu,Ukulhas,,5,10
+626,Seagrove Inn,Shaandhaar,Baa,Kamadhoo,,4,8
+627,Sealavie Inn,"Green House, Jumhooree Magu",Kaafu,Ukulhas,,5,10
+628,Seasalter Maldives Guest House,Hulhumale' Lot no. 10041,Kaafu,Male',Hulhumale',12,24
+629,Seashine Guesthouse,"Sea Shine, Chaandhanee Magu",Noonu,Manadhoo,,5,10
+630,Season Holidays,Hulhumale' Lot. No. 10349,Kaafu,Male',Hulhumale',12,24
+631,Season Paradise,Area,Kaafu,Thulusdhoo,,48,96
+632,Seasunbeach,Regards,Lhaviyani,Naifaru,,10,20
+633,Seena Inn,East Corner,Vaavu,Fulidhoo,,5,10
+634,Seginy Seaview,Nalakuri,Kaafu,Guraidhoo,,5,10
+635,Select Village,"Life, Kasthoori Magu",Kaafu,Maafushi,,14,28
+636,Serene Sky Guest House Block B,Anbumaage,Alifu Alifu,Thoddoo,,8,16
+637,Sevinex Inn,Shabnamge,Alifu Alifu,Feridhoo,,5,10
+638,Shades of Blue,Dhiyares,Haa Alifu,Kelaa,,6,12
+639,Shadow Palm,Shady Beach,Kaafu,Maafushi,Ziyaaraiy Magu,4,8
+640,Shallow Lagoon Rasdhoo,"Fiyaathoshige, Asrafee Hingun",Alifu Alifu,Rasdhoo,,12,24
+641,Shallow Lagoon Sunset,Moongrass,Alifu Alifu,Rasdhoo,,5,10
+642,Shamar Guest House,Lanka Palace,Alifu Dhaalu,Maamigili,,6,12
+643,Shark Lounge,"Miskihmagu, Jaadhooge",Gnaviyani,Fuvahmulah,,4,8
+644,Shaviyani Retreat,Finihiyaa,Alifu Alifu,Ukulhas,,3,6
+645,Shifa Lodge,Shifa,Alifu Alifu,Feridhoo,,6,12
+646,Shoreline Grand,Arum,Alifu Alifu,Thoddoo,,6,12
+647,Siesta Beach,Kinaaraa,Kaafu,Maafushi,,4,8
+648,Sis Tourist Villa,"Minivan Ufaa, Funagas Magu",Alifu Alifu,Mathiveri,,10,20
+649,Six in One,"H. Kamburu Villa, Hiyfaseyha goalhi",Kaafu,Male',Henveiru,18,36
+650,Skai Lodge,H. Mandhu Edhuruge,Kaafu,Male',Henveiru,13,26
+651,Sky Beach Dhiffushi,"Maabadhi, Belle",Kaafu,Dhiffushi,,28,56
+652,Sky Inn Thoddoo,Happy Rest,Alifu Alifu,Thoddoo,,4,8
+653,Sky View,Vilaasaage,Alifu Dhaalu,Dhangethi,,4,8
+654,Small Island Lodge,Gulfaamuge,Gaafu Dhaalu,Faresmaathodaa,,7,14
+655,Sole Maldive,"Venus,  Salahuddin Magu",Haa Alifu,Vashafaru,,3,6
+656,Solunar Maldives,Havaa,Kaafu,Maafushi,,15,30
+657,Sorenzo Maldives,Dhoonidhoo,Alifu Dhaalu,Omadhoo,,5,10
+658,South Ari Inn - Garden,Happy Night Kaneeru Magu,Alifu Dhaalu,Mandhoo,,3,6
+659,South Ari Inn – White,"""Finihandhuvaru Kaneeru Magu""",Alifu Dhaalu,Mandhoo,,3,6
+660,Splendour Grand,"Victory House, Roashanee Magu",Alifu Alifu,Maalhos,,4,8
+661,Star Shell,Hulhumale' Lot. No. 11106,Kaafu,Male',Hulhumale',15,30
+662,Starry Night at Ukulhas,Nooraaneemaa,Alifu Alifu,Ukulhas,,7,14
+663,Stay Mikado,"Orchidmaage, Thaa, Thimarafushi",,,,12,24
+664,Stay Salty,Kudhimaage,Kaafu,Gaafaru,,8,16
+665,Stay Thimarafushi,Orchidmaage,,,,12,24
+666,Stingray Beach Inn,"	1. Fiyaadhaage 2. Fiyaadhaage Uthurubai,  Ziyaarai Magu",Kaafu,Maafushi,,10,20
+667,String Wave Maldives,Hudhufas,Kaafu,Gulhi,,5,10
+668,Suffix Retreat,"Miskihmagu, Mazaa Violet Magu",Gnaviyani,Fuvahmulah,,7,14
+669,Summer Beach,"H. Campus Beach, Boduthakurufaanu Magu",Kaafu,Male',Henveiru,28,56
+670,Summer Home,Vaadhee,Haa Alifu,Kelaa,,9,18
+671,Summer Inn Thoddoo,salaam,Alifu Alifu,Thoddoo,,4,8
+672,Summer Sky Thoddoo,Naares,Alifu Alifu,Thoddoo,,16,8
+673,Summer Vibes Beach Front,Ethuma,Alifu Alifu,Rasdhoo,,6,12
+674,Summer Villa Guest House,Spring Villa,Kaafu,Maafushi,,15,30
+675,Sun Break View,Everlast,Faafu,Magoodhoo,,6,12
+676,Sun Dive Lodge Maldives,Velissaruge,Alifu Dhaalu,Mahibadhoo,,3,6
+677,Sun Shade Inn,"Malas, Sunset",Gaafu Dhaalu,Hoadehdhoo,,9,18
+678,Sun Shine View,Vilares,Kaafu,Maafushi,,4,8
+679,Sun View Residence,"Diamond Hiyaa, Shaheedh Ibrahim Hingun",Kaafu,Kaashidhoo,,5,10
+680,Suncoral Maldives,"Lavender, Mohamed Ameen Magu",Gaafu Alifu,Kondey,,4,8
+681,Sunny Canopy,"Hulhumale' Phase 2 ,Lot 20056, Nirolhu Magu",Kaafu,Male',Hulhumale',8,16
+682,Sunny Day Inn Maldives,"Ranthari, Chaandhanee Magu",Noonu,Manadhoo,,3,6
+683,Sunny Lodge,Aman,Alifu Dhaalu,Hangnaameedhoo,,3,6
+684,Sunny Side Maamendhoo,Day Light,Gaafu Alifu,Maamendhoo,,3,6
+685,Sunny Suites Inn,"Veli Muh, Hulhumale' Plot 10107",Kaafu,Male',Hulhumale',7,14
+686,Sunrise Beach,1. Aalge 2. Iramaage,Kaafu,Maafushi,,30,60
+687,Sunrise by White Sand Dhigurah,Silver Spring,Alifu Dhaalu,Dhigurah,,13,26
+688,Sunrise Inn,Nookurikeela & Nasrussabaa,Alifu Alifu,Thoddoo,,8,16
+689,Sunset Beach View Dhangethi,"Nees,  Zamaanee Magu",Alifu Dhaalu,Dhangethi,,4,8
+690,Sunset Holidays,Dhunthari,Kaafu,Huraa,,5,10
+691,Sunset View Inn,"Feras, Sosun Magu",Alifu Dhaalu,Hangnaameedhoo,,5,10
+692,Sunsetvilla,"Sunset, Sinaaee Sarahahdhu",Laamu,Gan,,4,8
+693,Sunshine Villa,Amaazu,Kaafu,Huraa,,6,12
+694,Surf Deck,Reef View,Kaafu,Thulusdhoo,,5,10
+695,Surf House by Konalle,"Alivaage, Ameeru Ahmed Magu",Gaafu Dhaalu,Gadhdhoo,,7,14
+696,Surf Retreat,Dhanbumaage,Alifu Alifu,Bodufolhudhoo,,4,8
+697,Surf Trip Maldives,"Liusham, Ranveli Magu",Kaafu,Thulusdhoo,,5,10
+698,Surf Yoga Camp,"Ithaa, Wathanee Hingun",Kaafu,Thulusdhoo,,9,18
+699,Surf Yoga Maldives,Unique,Kaafu,Thulusdhoo,,7,14
+700,Surf Yoga Retreat,Lily Night,Kaafu,Himmafushi,,4,8
+701,Suvaasa Inn,Suvaasaa & Athireege,Alifu Dhaalu,Kunburudhoo,,6,12
+702,Tavern Lodge,"Raahee, Iruvai Magu",Kaafu,Maafushi,,12,24
+703,Thari Fushi,Tunic,Vaavu,Thinadhoo,,6,12
+704,The Aquzz,Hulhumale' Lot. No. 10051,Kaafu,Male',Hulhumale',14,28
+705,The Avenue and Spa,Hulhumale' Lot. No. 11038,Kaafu,Male',Hulhumale',15,30
+706,The Beehive,M. Baheej Palace,Kaafu,Male',Maafannu,33,66
+707,The Bilimbi,"Thoonis, Mas'aruvaa Magu",Kaafu,Huraa,,6,12
+708,The Castaway Retreat,"Kuri, Husnuheena Magu",Alifu Alifu,Feridhoo,,4,8
+709,The Corbin Guest House,"Fathis, Bodu Magu",Baa,Goidhoo,,3,6
+710,The Elements Addu,"Vaaly Villa
+Hithadhoo, Seenu Atoll
+Republic of Maldives",Seenu,Hithadhoo,,5,10
+711,The G Ten Holiday Inn,"Villa Rose, Hulhumale' Lot No: 10164, Halaveli Magu",Kaafu,Male',Hulhumale',8,16
+712,The Grand View,"H. Melroze, Dheyliyaa Hingun",Kaafu,Male',Henveiru,21,42
+713,The Hive Beach,Hulhumale' Lot No. 10358,Kaafu,Male',Hulhumale',36,18
+714,The Mureed,Finiroalhi  Sosun Magu,Vaavu,Fulidhoo,,11,22
+715,The Orca,"Hulhumale', Amber Terrace, R-16-01",Kaafu,Male',Hulhumale',3,6
+716,The Park House,G.Famaas Villa,Kaafu,Male',Galolhu,20,40
+717,The Pearl Seaview,Hiroshima,Vaavu,Fulidhoo,,7,14
+718,The Ranthari,Ranthari Villa,Alifu Alifu,Ukulhas,,21,42
+719,The Sand Gate Inn,Hulhumale' Lot No. 10820,Kaafu,Male',Hulhumale',12,24
+720,The Sunrise Huraa,"Araairu, Kulheetherey Magu",Kaafu,Huraa,,4,8
+721,The Sunset Villa,"Beachvilla, Saleemee Hingun",Kaafu,Dhiffushi,,9,18
+722,The Varu Inn,Dhivaru,Lhaviyani,Hinnavaru,,6,12
+723,The White Harp Inn,Hulhumale' Lot. No. 11075,Kaafu,Male',,15,30
+724,Thigo Dreams,Thigo,Gaafu Alifu,Nilandhoo,,3,6
+725,Thila Farm View,Golden Moon,Alifu Alifu,Thoddoo,,9,18
+726,Thoddoo Beach Holiday Inn,"Cool Breeze
+Huravee Magu",Alifu Alifu,Thoddoo,,4,8
+727,Thoddoo Beach View,Hasthee,Alifu Alifu,Thoddoo,,4,8
+728,Thoddoo Dive Villa,"Noovina, Kilegefaanu Magu",Alifu Alifu,Thoddoo,,12,24
+729,Thoddoo Garden Inn,"Bageechaage, Hiyalee Magu",Alifu Alifu,Thoddoo,,4,8
+730,Thoddoo Haisha Inn,"Alanaasige,  Feeroazu Magu",Alifu Alifu,Thoddoo,,6,12
+731,Thoddoo Inn,Gulbakaage,Alifu Alifu,Thoddoo,,5,10
+732,Thoddoo Island Life,Hasthee,Alifu Alifu,Thoddoo,,5,10
+733,Thoddoo Retreat Grand,Fehi Ali,Alifu Alifu,Thoddoo,,6,12
+734,Thoddoo Sunny Beach,"Lemon Grass, Shaheedh Ali Hingun",Alifu Alifu,Thoddoo,,6,12
+735,Thoddoo Sunsky Inn,Bokarumaage  Feeroaz Magu,Alifu Alifu,Thoddoo,,7,14
+736,Thoddoo White Sand Inn,"Rukuma
+Ameenee Magu",Alifu Alifu,Thoddoo,,6,12
+737,Three Heart Guest House,Fehige,Baa,Fulhadhoo,,14,28
+738,Three Inn,Hulhumale' Lot. No. 10805,Kaafu,Male',Hulhumale',20,40
+739,Three Star Lodge,"Three Star, Kurangibahaa Magu",Vaavu,Keyodhoo,,5,10
+740,Thulusdhoo Garden Villa,Farishthaa,Kaafu,Thulusdhoo,,4,8
+741,Thun'dee Inn,Winter Blue,Alifu Alifu,Ukulhas,,4,8
+742,Thundi Sea View,Happy Luck,Vaavu,Fulidhoo,,8,16
+743,Thundi Village and Spa,Boakoshaage & Gulalaage,Baa,Maalhos,,18,36
+744,Tides Dhigurah,Auge,Alifu Dhaalu,Dhigurah,,4,8
+745,Tiger Shark Residence,Fenfiyaazuge,Gnaviyani,Fuvahmulah,,7,14
+746,"TME Retreats , Dhigurah",Shairose Rihiveli,Alifu Dhaalu,Dhigurah,,12,24
+747,"TME Retreats Dhigurah,  Noovilu",Noovilu & Elovera,Alifu Dhaalu,Dhigurah,,9,18
+748,Tour Inn,Kalmia,Kaafu,Male',Henveiru,6,12
+749,Tourist Inn,Ma. Leaves,Kaafu,Male',Machchangolhi,8,16
+750,Tourist Inn Baani,Maavahi,Vaavu,Felidhoo,,8,16
+751,Tourist Inn Grand,"Ma. Maaraa, Gulaabee Magu",Kaafu,Male',Machchangolhi,8,16
+752,Tranquil Nest,Farihiyaa,Vaavu,Rakeedhoo,,13,26
+753,Tranquila Maldives,Venus,Alifu Alifu,Rasdhoo,,10,20
+754,Treasure Island Lodge,Finihiyaage Dhekunubai,Kaafu,Huraa,,4,8
+755,Trip Villa,Baabul Avaali,Alifu Alifu,Ukulhas,,5,10
+756,Triton Beach,"White Fish, Ziyaarai Magu",Kaafu,Maafushi,,22,44
+757,Triton Prestige,"Gulbakaage, Valu Magu",Kaafu,Maafushi,,48,96
+758,Tropic Tree,Asseyri,Kaafu,Gulhi,,11,22
+759,Tropica Inn & Guest House,"Fashala, Haveeree Hingun",Raa,Alifushi,,4,8
+760,Tropica Thoddoo Inn,"Nooraaneemaage, Carnation Magu",Alifu Alifu,Thoddoo,,6,12
+761,Tropical Biosphere,Munich,Baa,Kamadhoo,,7,14
+762,Tropical Lodge,"Savaadhee, Ameenee Magu",Haa Dhaalu,Hanimaadhoo,,6,12
+763,Tropical Sands Kelaa,Ilaa & Hasthee,Haa Alifu,Kelaa,,8,16
+764,True South,Thaaj,Seenu,Maradhoo,,7,14
+765,Turquoise Residence,Hulhumale' Lot No. 11054 Nirolhu Magu,Kaafu,Male',Hulhumale',18,36
+766,Turtle Maldives,Happy Flower,Alifu Dhaalu,Omadhoo,,6,12
+767,Turtle Nest,"Uthuru Avah, Coral Garden, Bodureyni Goalhi",Haa Dhaalu,Finey,,4,8
+768,Turtle Retreat,"Haveylee, Ziyaarai Magu",Shaviyani,Goidhoo,,4,8
+769,Udhares Inn,"Fashuvi, Moorithi Hingun",Haa Alifu,Dhidhdhoo,,8,16
+770,Ufa Escape,"Malas
+Adh. Dhigurah",Alifu Dhaalu,Dhigurah,,5,10
+771,Ukulhas Beach Inn,Mirihimaage,Alifu Alifu,Ukulhas,,8,16
+772,Ukulhas Beach Villa,Recon City,Alifu Alifu,Ukulhas,,3,6
+773,Ukulhas View,"Everlast, Vashaa Magu",Kaafu,Ukulhas,,4,8
+774,Ukulhas Villa,Nooru Manzil,Alifu Alifu,Ukulhas,,4,8
+775,Umet Seaview,Loajehige,Kaafu,Male',Henveiru,11,22
+776,Umet Stay,Umet Villa,Gaafu Dhaalu,Thinadhoo,,12,24
+777,Unima Grand,"H. Unima Fehi,  Roashanee Magu",Kaafu,Male',Henveiru,39,78
+778,Unimaa Cottage,Meyazin,Alifu Alifu,Rasdhoo,,3,6
+779,Unwind Dhigurah,"Dhiguveli, Fareedhee Magu",Alifu Dhaalu,Dhigurah,,7,14
+780,Vaali Beach Lodge,Manaam,Vaavu,Felidhoo,,8,16
+781,vaaruge residence,mina,Gaafu Dhaalu,Hoandehdhoo,,10,20
+782,Vacation Home,Blue house,Alifu Alifu,Thoddoo,,3,6
+783,Vashafaru Inn,Kausar,Haa Alifu,Vashafaru,,6,12
+784,Velaa Garden View,"Raasthaa, Sosun Magu",Noonu,Fodhdhoo,,5,10
+785,Velana Beach,"Beach Rest, Miskiy Magu",Kaafu,Maafushi,,10,20
+786,Velana Blu,Hudhuakiri,Kaafu,Maafushi,,18,36
+787,Veli Beach Inn,Handhuvaru,Alifu Alifu,Mathiveri,,6,12
+788,Veli Inn,Janbugasdhoshuge,Haa Alifu,Dhidhdhoo,,3,6
+789,Veli Thoddoo Inn,Rasain,Alifu Alifu,Thoddoo,,3,6
+790,Veli Vilaa,Handhuvaree Aage,Kaafu,Dhiffushi,,4,8
+791,Vengeheli,Binaa,Baa,Kendhoo,,5,10
+792,Venus Villa,Venus villa,Vaavu,Keyodhoo,,4,8
+793,Vevu Villa Fenfushi,Fithuroanuge,Alifu Dhaalu,Fenfushi,,6,12
+794,Veyo Retreat,Aaraasthu,Thaa,Veymandoo,,4,8
+795,Veyvah Inn Maldives,Husnuheenaage,Meemu,Veyvah,,3,6
+796,Villa Buruni Maldives,"Anaarukaly, Aazaadhee Hingun",Thaa,Buruni,,3,6
+797,Villa Kamadhoo,Love Nest,Baa,Kamadhoo,,,5
+798,Villa Kudi Maldives,Iyurish,Kaafu,Thulusdhoo,,4,8
+799,Villa Rosa,"Sosunge, Sosun Magu",Alifu Alifu,Feridhoo,,5,10
+800,Villa Stella,Stella,Dhaalu,Ribidhoo,,3,6
+801,Village Hideaway & Spas,"Beach Home
+Vaadhee
+Finihiyaa",Baa,Fulhadhoo,,11,22
+802,Village Life,Raiyfusge,Gaafu Alifu,Maamendhoo,,4,8
+803,Village Waves,"Fenkuri, Miskiy Magu",Kaafu,Himmafushi,,8,16
+804,Vilu Beach Fulhadhoo,Red Rose,Baa,Fulhadhoo,,3,6
+805,Vilu Rest,Hulhumale' Lot. No. 11010,Kaafu,Male',Hulhumale',15,30
+806,Vilu Thari Inn Maldives,Vilaadhashuge,Alifu Dhaalu,Mahibadhoo,,7,14
+807,Vilu Veli Holiday Retreat,"Kaani, Nika & Funa
+Mirihi Magu",Haa Dhaalu,Hanimaadhoo,,16,32
+808,Vinca Bloom,"Haikolhu, Boduthakurufaanu Magu, Uthuru Avah",Haa Dhaalu,Makunudhoo,,5,10
+809,Vinorva,Block no: 31,Kaafu,Male',Villimale',29,58
+810,Vinorva Green,Altivailis,Kaafu,Maafushi,,7,14
+811,Vinorva Wave,Unique,Kaafu,Thulusdhoo,,7,14
+812,Violet Inn,1. Violet ge 2. Shal Villa  Ameeneemagu,Baa,Dharavandhoo,,8,16
+813,Vision Inn,"Vision, Alikatheeb Magu, Gaafu Alifu, Villingili",Gaafu Alifu,Villingili,,4,8
+814,Vista Beach Retreat,Hulhumale’ Lot. No 10669,Kaafu,Male',Hulhumale’,12,24
+815,Vista Villa,Vinavi,Seenu,Hithadhoo,,9,18
+816,VIVA Beach and Spa Maldives,Dhilbahaaruge,Alifu Dhaalu,Hangnaameedhoo,,12,24
+817,Water Seven,Parindage,Kaafu,Maafushi,,7,14
+818,Wave Sound by 3S Maldives,426/2012/06 Kuleebin,Seenu,Maradhoo Feydhoo,,7,14
+819,Wavefront Inn,Hulhumale' Lot. No. 10997,Kaafu,Male',Hulhumale',20,40
+820,Waves Inn,"Waves, Yoosufkaleyfaanu Magu",Raa,Maakurathu,,5,10
+821,West Sands Ukulhas,Kinaaraa,Alifu Alifu,Ukulhas,,20,40
+822,Whale Shark Villa,"Fini Roalhi, Heenaa Magu",Alifu Dhaalu,Fenfushi,,3,6
+823,White Beach Holiday,"Hulhumale Lot No. 10124, Dhiggaamagu",Kaafu,Male',Hulhumale’,7,14
+824,White Coral Rasdhoo,"Beach Villa, Bodu Magu",Alifu Alifu,Rasdhoo,,10,20
+825,White Maakana Seaview,Kalhavathi,Vaavu,Keyodhoo,,8,4
+826,White Maakanaa Lodge,Rivil,Vaavu,Keyodhoo,,5,10
+827,White Maakanaa Seaview,Kalhavathi,Vaavu,Keyodhoo,,4,8
+828,White Sand Dhigurah,"Iris, Kuri and Ithaa",Alifu Dhaalu,Dhigurah,,24,48
+829,White Sand Himandhoo,White Sand,Alifu Alifu,Himandhoo,,4,8
+830,White Tern Maldives,"Villa
+Ameenee Magu",Alifu Dhaalu,Dhidhdhoo,,6,12
+831,Whiteshell Island and Spa,Musthareege,Kaafu,Maafushi,,12,24
+832,Wind Breeze Sunset View Inn,Westen,Kaafu,Guraidhoo,,3,6
+833,Wish Guesthouse,Notilas,Kaafu,Huraa,,13,26
+834,Wow Inn Keyodhoo,"Maas, Kyodhoo, Vaavu Atoll, Republic of Maldives",Vaavu,Keyodhoo,,8,16
+835,Wow Retreat,Theveli,Vaavu,Felidhoo,,3,6
+836,Wunderbar Inn,VethiDhandu Hingun,Meemu,Maduvvari,,4,8
+837,Zeestar Inn,Banafsaage,Kaafu,Maafushi,,10,20
+838,Zero Degree Residence,"Hoadhadu, Fehiali",Gnaviyani,Fuvahmulah,Hoadhadu,12,24
